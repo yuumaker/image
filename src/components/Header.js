@@ -16,7 +16,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     height: 70,
     paddingTop: 30,
-    // Android Only
     elevation: 2
   },
   textStyle: {
